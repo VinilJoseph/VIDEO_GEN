@@ -1,0 +1,23 @@
+# Environment variables
+.env
+
+# Output videos
+output/
+*.mp4
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# FastAPI
+.pytest_cache/
+*.pyc
